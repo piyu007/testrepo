@@ -1,5 +1,5 @@
 # testrepo
 Git is fun to learn!
-Love git!!!
+I love git!!!
 Hello world!
 Hi, this is ashutosh.
